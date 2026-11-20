@@ -27,4 +27,3 @@
 
 10. Geng, X., & Huang, J. (2015). A Survey of Recommendation Systems Based on User Reviews. In Proceedings of the 2015 International Conference on Artificial Intelligence and Statistics (pp. 217-225).
     - Discusses the role of user reviews in building recommendation systems and provides insights into the challenges and future research directions.
-
